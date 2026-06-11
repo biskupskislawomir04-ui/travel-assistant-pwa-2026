@@ -6,7 +6,7 @@ Kompleksowa, responsywna aplikacja mobilna typu **PWA (Progressive Web App)** za
 
 ## Główna funkcjonalność i moduły
 *   **Interaktywny Itinerary (Plan Podróży):** Osi czasu dla poszczególnych dni wyprawy z dynamicznym podziałem na strefy czasowe, rekomendacje logistyczne oraz segmentację dedykowaną dla seniorów (zarządzanie obciążeniem fizycznym).
-*   **Moduł State Management Check-In:** System monitorowania postępu podróży w czasie rzeczywistym. Pozwala użytkownikom odznaczać 22 kluczowe punkty orientacyjne. Stan jest persistowany lokalnie w przeglądarce (`localStorage`), eliminując potrzebę stałego połączenia z bazą danych.
+*   **Moduł State Management Check-In:** System monitorowania postępu podróży w czasie rzeczywistym. Pozwala użytkownikom odznaczać 22 kluczowe punkty orientacyjne. Stan jest persistowany lokalnie w przeglądarce , eliminując potrzebę stałego połączenia z bazą danych.
 *   **Offline Currency Converter:** Autorski moduł przelicznika walut (PLN, JPY, KRW, EUR) bazujący na z góry zdefiniowanych relacjach kursowych, zoptymalizowany pod kątem natychmiastowego działania bez dostępu do sieci.
 *   **Group Expense Splitter (Split Bill):** Zaawansowany algorytm kalkulacji kosztów grupowych z dynamicznym przeliczeniem na osobę w wybranej walucie oraz automatyczną konwersją ekwiwalentu do PLN.
 *   **Rozmówki z integracją Web Speech API (TTS):** Moduł językowy wspierający natywne odtwarzanie audio (Text-to-Speech) fraz japońskich i koreańskich z dopasowanym współczynnikiem szybkości mowy (`rate: 0.85`) w celu ułatwienia komunikacji z lokalsami.
