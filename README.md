@@ -1,6 +1,6 @@
 
 # Multi-Utility Travel Assistant PWA (Japan & South Korea 2026)
-![Prezentacja działania kreatora](gif_kreator_postaci.gif)
+![Prezentacja działania kreatora](Gif_kreator_postaci.gif)
 ## O projekcie
 Kompleksowa, responsywna aplikacja mobilna typu **PWA (Progressive Web App)** zaprojektowana i wdrożona w celu obsługi logistycznej, finansowej oraz komunikacyjnej 6-osobowej grupy wyprawowej w Japonii i Korei Południowej. Aplikacja została zoptymalizowana pod kątem działania w trudnych warunkach mobilnych (roaming, ograniczony dostęp do sieci, oszczędzanie baterii) i dostarcza kluczowe narzędzia operacyjne w trybie offline.
 
